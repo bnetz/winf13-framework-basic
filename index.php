@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
 
-  <title>Meine Website!!</title>
+  <title>Meine Website!!!!!!</title>
   <meta name="description" content="Meine Website, Beschreibung">
   <meta name="author" content="Kommissar Smith">
 
@@ -13,7 +13,7 @@
 </head>
 
 <body>
-  echo "blalllll";
+  echo "blallldddddll";
   <script src="js/scripts.js"></script>
   
 </body>
