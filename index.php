@@ -13,8 +13,8 @@
 </head>
 
 <body>
-  echo "blallldddddll";
-  <script src="js/scripts.js"></script>
+  <h1>Titel</h1>
+  
   
 </body>
 </html>
