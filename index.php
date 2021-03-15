@@ -92,8 +92,6 @@
       }
     ?>
 	<hr>
-
-
 </div> <!-- container ende -->
   
   
